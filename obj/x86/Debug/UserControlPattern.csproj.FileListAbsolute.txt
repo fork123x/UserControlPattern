@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\MyUserControl.baml
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\MyUserControl.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5.g.resources
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\UserControlPattern.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5.exe
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5.pdb
